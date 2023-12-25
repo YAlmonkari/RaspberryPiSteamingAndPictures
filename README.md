@@ -11,3 +11,5 @@ In order to run them (./file.sh) you have to make them executable by typing: chm
 2 addisonal files are for takeing Black and White pictures and videos with a raspberry pi 4b+ and a HQ Camera module.
 
 <img src=20231225_160443.jpg>
+
+In the picture we got a PiHut HQ Camera Mount aviable at ThePiHut web page, a HQ Camera Module, a Raspberry Pi 4b+ and a Touch Screen.
