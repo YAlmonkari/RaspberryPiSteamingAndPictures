@@ -5,7 +5,7 @@ This repository consists of 6 bash script files for:
 -streaming to Youtube with and without sound - Raspberry pi 3b+<br>
 Here is a sample <a href=https://youtube.com/live/PTZmwGcl-UY>video</a> from that streaming. (Made with a official raspberry pi camera module and a usb sound card)
 
-with a raspberrian strech and a copy of a ffmpeg installed.
+with a raspberrian strech and a copy of a ffmpeg installed. Addicional setup <a href=https://www.digikey.com/en/maker/tutorials/2016/streaming-live-to-youtube-and-facebook-using-raspberry-pi-camera>link</a>.
 
 In order to run them (./file.sh) you have to make them executable by typing: chmod +x file.sh
 
