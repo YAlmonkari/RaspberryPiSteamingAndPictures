@@ -12,4 +12,4 @@ In order to run them (./file.sh) you have to make them executable by typing: chm
 
 <img src=20231225_160443.jpg>
 
-In the picture we got a PiHut HQ Camera Mount aviable at ThePiHut web page, a HQ Camera Module, a Raspberry Pi 4b+ and a Touch Screen.
+In the picture we got a PiHut HQ Camera Mount aviable at ThePiHut web page, a HQ Camera Module, a Raspberry Pi 4b+ and a Touch Screen. The pinhole is a RealitySoSubtle laser drilled 0.1mm pinhole.
