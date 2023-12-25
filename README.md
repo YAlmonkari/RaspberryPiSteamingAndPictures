@@ -2,7 +2,8 @@ This repository consists of 6 bash script files for:
 
 -makeing pictures with a Raspberry pi zero, 3b+<br>
 -recording videos in Full HD - zero, 3b+<br>
--streaming to Youtube with and without sound - Raspberry pi 3b+
+-streaming to Youtube with and without sound - Raspberry pi 3b+<br>
+Here is a sample <a href=https://youtube.com/live/PTZmwGcl-UY>video</a> from that streaming. (Made with a official raspberry pi camera module and a usb sound card)
 
 with a raspberrian strech and a copy of a ffmpeg installed.
 
