@@ -6,4 +6,4 @@ This repository consists of 4 bash script files for:
 
 with a raspberrian strech and a copy of a ffmpeg installed.
 
-In order to run them (./file.sh) you have to make them executable by typyng: chmod +x file.sh
+In order to run them (./file.sh) you have to make them executable by typing: chmod +x file.sh
