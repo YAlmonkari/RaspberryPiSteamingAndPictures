@@ -9,3 +9,5 @@ with a raspberrian strech and a copy of a ffmpeg installed.
 In order to run them (./file.sh) you have to make them executable by typing: chmod +x file.sh
 
 2 addisonal files are for takeing Black and White pictures and videos with a raspberry pi 4b+ and a HQ Camera module.
+
+<img src=20231225_160443.jpg>
