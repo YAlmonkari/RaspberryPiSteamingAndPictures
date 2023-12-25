@@ -18,4 +18,4 @@ In the picture we got a PiHut HQ Camera Mount aviable at ThePiHut web page, a HQ
 
 Here is the optional setup (without the HQ Camera module) for recording with sound but in my expierience the video got bit choppy sometimes and the sound would disappear or go out of sync.<br>
 Probably I need some help with it.<br>
-Here is a <a href:https://youtu.be/ZF2mWPosFeI>video</a> done with that setup.
+Here is a <a href=https://youtu.be/ZF2mWPosFeI>video</a> done with that setup.
