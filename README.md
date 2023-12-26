@@ -14,5 +14,5 @@ Here is the optional setup (without the HQ Camera module) for recording with sou
 Probably I need some help with it.<br>
 Here is a <a href=https://youtu.be/ZF2mWPosFeI>video</a> recorded with that setup.
 <h1>Phyton files</h1>
-camera.py - previews for 5s. and takes a picture.<br>
+PythonPrerviewCamera.py - previews for 5s. and takes a picture.<br>
 Works with a Raspberry Pi OS Bullseye and a picamera python module (That is by defoult installed, if not use: "sudo apt-get install python-picamera" or "pip install picamera". After system up date - "sudo apt-get update" and "sudo apt-get upgrade")
