@@ -1,3 +1,4 @@
+<h1>Bash scripts</h1>
 This repository consists of 6 bash script files for:<br>
 -makeing pictures with a Raspberry pi zero, 3b+<br>
 -recording videos in Full HD - zero, 3b+<br>
@@ -12,3 +13,5 @@ In the picture we got a PiHut HQ Camera Mount aviable at ThePiHut web page, a HQ
 Here is the optional setup (without the HQ Camera module) for recording with sound but in my expierience the video got bit choppy sometimes and the sound would disappear or go out of sync.<br>
 Probably I need some help with it.<br>
 Here is a <a href=https://youtu.be/ZF2mWPosFeI>video</a> recorded with that setup.
+<h1>Phyton files</h1>
+camera.py - previews for 5s. and takes a picture.
