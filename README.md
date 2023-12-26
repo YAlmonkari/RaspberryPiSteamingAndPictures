@@ -1,3 +1,4 @@
+To clone use "git clone https://github.com/YAlmonkari/RaspberryPiStreamingAndPictures3b-4b-zero".<br>
 <h1>Bash scripts</h1>
 This repository consists of 6 bash script files for:<br>
 -makeing pictures with a Raspberry pi zero, 3b+<br>
