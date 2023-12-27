@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec 26 16:20:44 2023
-
 @author: Yrjö Almonkari
 """
 from picamera import PiCamera
@@ -9,8 +8,9 @@ import subprocess
 import time
 date = time.strftime("%Y-%m-%d_%H%M%S")
 camera = PiCamera()
-camera.start_preview()
+camera.iso = 800
 camera.resolution = (1920, 1080)
+camera.start_preview()
 camera.start_recording('/home/pi/Pictures/' + date + '.h264')
 i = input()
 camera.stop_recording()
